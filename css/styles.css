@@ -1,0 +1,15 @@
+body {
+  background-color: #dfd8c8;
+}
+
+hr {
+  background-color: transparent;
+  border-style: none;
+  border-top: 10px dotted grey;
+  height: 2px;
+  width: 5%;
+}
+
+img {
+  height: 125px;
+}
