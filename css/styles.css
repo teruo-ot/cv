@@ -1,11 +1,20 @@
 body {
-  background-color: #dfd8c8;
+  background-color: #eaf6f6;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h3 {
+    color:#66bfbf;
 }
 
 hr {
   background-color: transparent;
   border-style: none;
-  border-top: 10px dotted grey;
+  border-top: 10px dotted #ffbe00;
   height: 2px;
   width: 5%;
 }
