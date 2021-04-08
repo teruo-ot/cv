@@ -19,6 +19,32 @@ hr {
   width: 5%;
 }
 
-img {
-  height: 125px;
+
+
+.pro {
+  text-decoration: underline;
+}
+
+#top-container {
+  background-color: #eaf6f6;
+  /* border: solid 10px; */
+  /* height: 200px; */
+  padding: 20px;
+  /* width: 200px;*/
+}
+
+#middle-container {
+  background-color: red;
+  /* border: solid 20px; */
+  height: 200px;
+  /* margin-left: 260px; */
+  width: 200px;
+}
+
+#bottom-container {
+  background-color: gold;
+  /* border: solid 10px; */
+  height: 200px;
+  /* margin-left: 500px; */
+  width: 200px;
 }
