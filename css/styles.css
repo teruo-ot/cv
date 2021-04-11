@@ -1,15 +1,23 @@
 body {
   background-color: #eaf6f6;
+  font-family: 'Merriweather', serif;
   text-align: center;
 }
 
 h1 {
     color: #66bfbf;
+    font-family: "Sacramento", cursive;
     margin-top: 0;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
     color:#66bfbf;
+    font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -21,7 +29,7 @@ hr {
 }
 
 .botton-cloud {
-  position: relative;
+  position: fixed;
   margin-bottom: 10%;
 }
 
@@ -34,7 +42,7 @@ hr {
 }
 
 .top-cloud {
-  position: relative;
+  position: fixed;
   margin-left: 20%;
 }
 
