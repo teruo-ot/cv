@@ -1,9 +1,11 @@
 body {
   background-color: #eaf6f6;
+  text-align: center;
 }
 
 h1 {
     color: #66bfbf;
+    margin-top: 0;
 }
 
 h3 {
@@ -18,13 +20,27 @@ hr {
   width: 5%;
 }
 
+.botton-cloud {
+  position: relative;
+  margin-bottom: 10%;
+}
 
+.mountain {
+  position: relative;
+}
 
 .pro {
   text-decoration: underline;
 }
 
+.top-cloud {
+  position: relative;
+  margin-left: 20%;
+}
+
+
 #top-container {
+  position: relative;
   background-color: #eaf6f6;
   /* border: solid 10px; */
   /* height: 200px; */
