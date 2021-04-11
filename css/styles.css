@@ -37,6 +37,10 @@ hr {
   position: relative;
 }
 
+.photo {
+  height: 150px;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -57,17 +61,9 @@ hr {
 }
 
 #middle-container {
-  background-color: red;
-  /* border: solid 20px; */
-  height: 200px;
-  /* margin-left: 260px; */
-  width: 200px;
+
 }
 
 #bottom-container {
-  background-color: gold;
-  /* border: solid 10px; */
-  height: 200px;
-  /* margin-left: 500px; */
-  width: 200px;
+
 }
