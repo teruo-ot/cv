@@ -12,11 +12,12 @@ h1 {
 }
 
 h2 {
+  color: #66bfbf;
   font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-    color:#66bfbf;
+    color:#11999e;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -61,9 +62,9 @@ hr {
 }
 
 #middle-container {
-
+  color: #11999e;
 }
 
 #bottom-container {
-
+  color: #11999e;
 }
